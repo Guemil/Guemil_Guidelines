@@ -112,7 +112,7 @@ em{
     letter-spacing: 0.05rem;
 }
 
-.card, .card-img-top{
+.card, .card-img-top, .card-body{
     border:none;
-    border-radious: 0 0;
+    border-radius:0;
 }
