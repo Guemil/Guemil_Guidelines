@@ -123,11 +123,11 @@ em{
 
 @keyframes colores {
   0% {color: #000000;}
-  20% {color: #F46D1F;}
-  40% {color: #F7A600;}
-  60% {olor: #00662C;}
-  80% {color: #004680;}
-  100% {color: #B00710;}
+  20% {color: #B00710;}
+  40% {color: #F46D1F;}
+  60% {color: #F7A600;}
+  80% {olor: #00662C;}
+  100% {color: #004680;}
 }
 
 .multicolor{
