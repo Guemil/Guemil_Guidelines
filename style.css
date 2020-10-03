@@ -131,6 +131,6 @@ em{
 }
 
 .multicolor{
-  animation:colores 10s infinite;
+  animation:colores 10s infinite alternate;
 }
 
