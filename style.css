@@ -111,3 +111,8 @@ em{
 .flex-column small {
     letter-spacing: 0.05rem;
 }
+
+.card, .card-img-top{
+    border:none;
+    border-radious: 0 0;
+}
