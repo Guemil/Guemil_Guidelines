@@ -116,3 +116,7 @@ em{
     border:none;
     border-radius:0;
 }
+.picto{
+    font-family: "guemil_15picto", sans-serif;
+    font-size: 2.5rem;
+}
