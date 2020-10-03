@@ -54,15 +54,6 @@ h6 {
     font-size: 1.2rem;
 }
 
-p {
-    font-size: 1rem;
-}
-
-small,
-.small {
-    font-weight: 300;
-}
-
 h6 sup {
     font-size: 0.7rem;
     font-weight: 700;
@@ -80,6 +71,20 @@ h6 sup {
 
 .text-white h6 sup {
     border: 1px solid #fff;
+}
+
+p {
+    font-size: 1rem;
+}
+
+small,
+.small {
+    font-weight: 300;
+}
+
+em{
+    font-style:normal;
+    font-weight:400;
 }
 
 #glyph_chart div {
