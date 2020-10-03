@@ -118,5 +118,20 @@ em{
 }
 .picto{
     font-family: "guemil_15picto", sans-serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
+
+@keyframes colores {
+  0% {color: #B00710;}
+  20% {color: #F46D1F;}
+  40% {color: #F7A600;}
+  60% {olor: #00662C;}
+  80% {color: #004680;}
+  100% {color: #B00710;}
+}
+
+.multicolor{
+	animation-name: colores;
+	animation-duration: 10s;
+}
+
