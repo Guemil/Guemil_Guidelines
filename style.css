@@ -131,7 +131,6 @@ em{
 }
 
 .multicolor{
-	animation-name: colores;
-	animation-duration: 10s;
+  animation:colores 10s infinite;
 }
 
