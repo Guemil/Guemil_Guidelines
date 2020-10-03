@@ -10,6 +10,10 @@ body {
     font-weight: 300;
 }
 
+a{
+    color:#004680;
+}
+
 h1 {
     font-size: 3.6rem;
     font-weight: 100;
