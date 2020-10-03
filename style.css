@@ -10,6 +10,11 @@ body {
     font-weight: 300;
 }
 
+a, b, em, strong, dt{
+    font-weight:400;
+    font-style:normal;
+}
+
 a{
     color:#004680;
 }
@@ -27,7 +32,8 @@ h2 {
 h3,
 h4,
 h5,
-h6 {
+h6,
+th {
     font-weight: 300;
 }
 
@@ -74,10 +80,6 @@ small,
     font-weight: 300;
 }
 
-em{
-    font-style:normal;
-    font-weight:400;
-}
 
 #glyph_chart div {
     background-color: #f8f9fa;
@@ -131,6 +133,6 @@ em{
 }
 
 .multicolor{
-  animation:colores 10s infinite alternate;
+  animation:colores 20s infinite alternate;
 }
 
