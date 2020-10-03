@@ -10,15 +10,6 @@ body {
     font-weight: 300;
 }
 
-a {
-    color: #ed6e08;
-    font-weight: 400;
-}
-
-a:hover {
-    color: #f49303;
-}
-
 h1 {
     font-size: 3.6rem;
     font-weight: 100;
