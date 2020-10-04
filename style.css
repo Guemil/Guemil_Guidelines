@@ -10,13 +10,17 @@ body {
     font-weight: 300;
 }
 
-a, b, em, strong, dt{
-    font-weight:400;
-    font-style:normal;
+a,
+b,
+em,
+strong,
+dt {
+    font-weight: 400;
+    font-style: normal;
 }
 
-a{
-    color:#004680;
+a {
+    color: #004680;
 }
 
 h1 {
@@ -80,59 +84,81 @@ small,
     font-weight: 300;
 }
 
-
-#glyph_chart div {
-    background-color: #f8f9fa;
-    color: black;
-    float: left;
-    height: 2.5em;
-    line-height: 2em;
-    margin-bottom: 1px;
-    margin-right: 1px;
-    text-align: center;
-    width: 2em;
-    position: relative;
-    padding-top: 0.7em;
-    font-family: "guemil_15picto", sans-serif;
-    font-size: 1.8rem;
+.card,
+.card .card-img-top,
+.card .card-body,
+.card .card-header {
+    border: none;
+    border-radius: 0;
 }
 
-#glyph_chart div p {
-    position: absolute;
-    left: 0;
-    top: 0;
-    display: block;
+#glyph_chart .card {
+    margin: 0 1px 1px 0;
+}
+
+#glyph_chart .card .card-body {
     text-align: center;
-    font: 300 0.8rem "Roboto", sans-serif;
-    background-color:#343A40;
-    color: white;
-    width: 100%;
-    padding: 0.25rem 0;
+    font-family: "guemil_15picto", sans-serif;
+    font-size: 1.75rem;
+    padding: 0.6rem 0;
+}
+
+#glyph_chart .card .card-header {
+    text-align: center;
+    font: 300 0.75rem "Roboto", sans-serif;
+    padding: 0.3rem 0;
+}
+
+th {
+    background: #f0f1f2;
+    font-size: 0.75rem;
 }
 
 .flex-column small {
     letter-spacing: 0.05rem;
 }
 
-.card, .card-img-top, .card-body{
-    border:none;
-    border-radius:0;
-}
-.picto{
+.picto {
     font-family: "guemil_15picto", sans-serif;
-    font-size: 2.5rem;
+    font-size: 2.4rem;
 }
 
 @keyframes colores {
-  0% {color: #000000;}
-  20% {color: #B00710;}
-  40% {color: #F46D1F;}
-  60% {color: #F7A600;}
-  80% {olor: #00662C;}
-  100% {color: #004680;}
+    0% {
+        color: #000000;
+    }
+    20% {
+        color: #b00710;
+    }
+    40% {
+        color: #f46d1f;
+    }
+    60% {
+        color: #f7a600;
+    }
+    80% {
+        olor: #00662c;
+    }
+    100% {
+        color: #004680;
+    }
 }
 
-.multicolor{
-  animation:colores 20s infinite alternate;
+.multicolor {
+    animation: colores 12s infinite alternate;
 }
 
+#colores div.p-3 {
+    min-height: auto;
+}
+
+@media (min-width: 576px) {
+    #colores div.p-3 {
+        min-height: 20rem;
+    }
+}
+
+table.table-condensed th,
+table.table-condensed td {
+    border: 1px solid white;
+}
