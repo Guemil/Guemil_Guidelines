@@ -12,19 +12,19 @@ body {
 
 body::-webkit-scrollbar {
     width: 0.4rem;
-    scrollbar-color: rgb(210, 210, 210) rgb(235, 235, 235);
+    scrollbar-color: rgb(218, 219, 220) rgb(238, 239, 240);
 }
 
 body::-webkit-scrollbar-track {
-    background: rgb(235, 235, 235);
+    background: rgb(238, 239, 240);
 }
 
 body::-webkit-scrollbar-thumb {
-    background-color: rgb(210, 210, 210);
+    background-color: rgb(218, 219, 220);
 }
 
 body::-webkit-scrollbar-thumb:hover {
-    background-color: rgb(185, 185, 185);
+    background-color: rgb(198, 199, 200);
 }
 
 b,
