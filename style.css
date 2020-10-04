@@ -141,23 +141,23 @@ th {
 
 @keyframes colores {
     0% {
-        color: #000000;
+        color: #FFC043;
     }
     20% {
-        color: #b00710;
+        color: #F46D1F;
     }
     40% {
-        color: #f46d1f;
+        color: #B00710;
     }
     60% {
-        color: #f7a600;
+        olor: #004680;
     }
     80% {
-        olor: #00662c;
+        color: #00662C;
     }
     100% {
-        color: #004680;
-    }
+        color: #000000;
+    }    
 }
 
 .multicolor {
