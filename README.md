@@ -1,8 +1,24 @@
 # Guemil Guidelines
 
-### Guemil Guidelines is a set of recommendations for designers on how to collaborate in an organized, quick, and effective way toward the application of Guemil Icons for Emergency | Guemil Guidelines es un conjunto de recomendaciones para diseñadores sobre cómo colaborar de manera organizada, rápida y efectiva en la aplicación de Guemil Íconos para la Emergencia
+### [Guemil Guidelines](https://guemil.github.io/Guemil_Guidelines/) is a set of recommendations for designers on how to collaborate in an organized, quick, and effective way toward the application of our icons | [Guemil Guidelines](https://guemil.github.io/Guemil_Guidelines/) es un conjunto de recomendaciones para diseñadores sobre cómo colaborar de manera organizada, rápida y efectiva en la aplicación de nuestros íconos
 
-https://guemil.github.io/Guemil_Guidelines/
+In [this set of recommendations](https://guemil.github.io/Guemil_Guidelines/) you will find: 
+
+- Design Principles
+- Tono of Voice
+- Writing for Social Media
+- Typography
+- Motion Principles
+- Colours
+
+En [este conjunto de recomendaciones](https://guemil.github.io/Guemil_Guidelines/) encontrarás: 
+
+- Principios de Diseño
+- Tono de Voz
+- Redacción para Redes Sociales
+- Tipografía
+- Bases para la Animación
+- Colores
 
 - - - - - - - -
 
