@@ -5,7 +5,7 @@
 In [this set of recommendations](https://guemil.github.io/Guemil_Guidelines/) you will find: 
 
 - Design Principles
-- Tono of Voice
+- Tone of Voice
 - Writing for Social Media
 - Typography
 - Motion Principles
